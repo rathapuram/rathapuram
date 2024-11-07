@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rathapuram
 - 👀 I’m interested in a Web development platform 
-- 🌱 I’m currently done in HTML, CSS, JAVASCRIPT, bootstrap, MySQL database and python   
+- 🌱 I’m currently done in HTML, CSS, JAVASCRIPT, bootstrap, MySQL database, Java and python   
 - 💞️ I’m looking to collaborate with new people and searching for a job
 
 <!---
